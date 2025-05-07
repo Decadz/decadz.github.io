@@ -1,7 +1,7 @@
 export interface AboutMe {
   name: string;
   title: string;
-  institution: string;
+  institution?: string;
   description: string;
   email: string;
   imageUrl?: string;
