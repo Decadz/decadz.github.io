@@ -4,7 +4,6 @@ import {
   Linkedin,
   Mail,
   Twitter,
-  ArrowUpRight,
   GraduationCap,
   FileUser
 } from "lucide-react";
