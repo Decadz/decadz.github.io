@@ -1,0 +1,6 @@
+@article{raymond2023online,
+  title={Online Loss Function Learning},
+  author={Raymond, Christian and Chen, Qi and Xue, Bing and Zhang, Mengjie},
+  journal={arXiv preprint arXiv:2301.13247},
+  year={2023}
+}

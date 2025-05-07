@@ -1,0 +1,6 @@
+@article{raymond2023learning,
+  title={Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning},
+  author={Raymond, Christian and Chen, Qi and Xue, Bing and Zhang, Mengjie},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023}
+}

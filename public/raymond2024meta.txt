@@ -1,0 +1,6 @@
+@article{raymond2024meta,
+  title={Meta-Learning Neural Procedural Biases},
+  author={Raymond, Christian and Chen, Qi and Xue, Bing and Zhang, Mengjie},
+  journal={arXiv preprint arXiv:2406.07983},
+  year={2024}
+}

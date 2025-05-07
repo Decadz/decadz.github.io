@@ -1,0 +1,6 @@
+@inproceedings{raymond2023fast,
+  title={Fast and Efficient Local-Search for Genetic Programming based Loss Function Learning},
+  author={Raymond, Christian and Chen, Qi and Xue, Bing and Zhang, Mengjie},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  year={2023}
+}
