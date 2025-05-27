@@ -21,7 +21,7 @@ export interface AboutMe {
 export const aboutMe: AboutMe = {
   name: "Christian Raymond",
   title: "Applied Research Scientist",
-  description:"I'm a senior applied scientist at Oracle, where I work on applying large language models to challenging problems in healthcare. Previously, I was at Amazon, developing a foundation model for 3D computer vision. I completed my PhD at Victoria University of Wellington in New Zealand, where I focused on meta-learning loss functions for deep neural networks. My research interests include meta-learning, meta-optimization, hyperparameter optimization, few-shot learning, and continual learning.",
+  description:"I'm a senior applied scientist at Oracle, where I work on applying large language models to challenging problems in healthcare. Previously, I worked at Amazon, developing a foundation model for 3D computer vision. I completed my PhD at Victoria University of Wellington in New Zealand, where my research focused on meta-learning loss functions for deep neural networks. My current research interests include meta-learning, meta-optimization, hyperparameter optimization, few-shot learning, and continual learning.",
   email: "christianfraymond@gmail.com",
   imageUrl: "/profile-picture.jpg",
   googleScholarUrl: "https://scholar.google.com/citations?hl=en&user=nK9RlDgAAAAJ",
